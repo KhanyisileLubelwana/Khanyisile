@@ -211,7 +211,7 @@ nav a:hover {
 
 .msg p {
   padding-bottom: 15px;
-  font-size: 2em;
+  font-size: 1em;
   color: #000000;
 }
 
@@ -301,7 +301,7 @@ h4 {
   grid-template-columns: repeat(10, 1fr);
 }
 
-.card-img, .montain {
+.card-img, .mountains {
   width: 100%;
 }
 
